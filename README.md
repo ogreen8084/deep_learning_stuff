@@ -1,1 +1,1 @@
-Playing around with creating deep learning models. 
+Playing around with creating deep learning models in Tensorflow 1
